@@ -20,7 +20,6 @@ Adadi my_func (Adadi para_m)
 	Wapas 0 ::
 } */
 
-/*
 Adadi my_func(Adadi para_m, Adadi para__m)
 {
 	Adadi _num , _num2 ::
@@ -74,34 +73,6 @@ Adadi my_func(Adadi para_m, Adadi para__m)
 		Wagarna
 		{
 			_flag := 0 ::
-		}
-	}
-} */
-
-
-Adadi my_func(Adadi para_m, Adadi para__m)
-{
-	_x1 := +50.5e10 ::
-	_x2 := -3 - (50 - +60E750) ::
-	while(_x2 > _x1*_x2+_x3 < _x2)
-	{
-		Agar(_x1 <> _x2 / 0 + +3)
-		{
-			_x45678_x5 := (_x3 * 12 / -23) + _x2 ::
-		}
-		Agar(1 < 0 + 0)
-		{
-			Agar(1 > 0)
-			{
-				Agar(_x7 <> _x4)
-				{
-					_x4 := _x5 ::
-				}
-				Wagarna
-				{
-					_x5 := _x4 ::
-				}
-			}
 		}
 	}
 }

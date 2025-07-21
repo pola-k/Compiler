@@ -1,4 +1,8 @@
 Adadi 1
-while 2
-Agar 3
-Wagarna 4
+Ashriya 2
+Harf 3
+Mantiqi 4
+Agar 5
+Wagarna 6
+for 7
+while 8
