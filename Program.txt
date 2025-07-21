@@ -1,0 +1,107 @@
+//Hello
+/* ernjerkker
+lsdafdkmdlflmds 
+
+Adadi my_func (Adadi para_m)
+{
+	Adadi _num := 10 ::
+	Ashriya 6num_3 := -10.5E+12 ::
+	Ashriya n_um$_ber := +9.3++- ::
+	Ashriya num__ber:= num_ + n_umber ::
+	Harf cou_se := "c" ::
+	Matn course_ := "Compiler Construction" ::
+	Harf char_ = "" :
+	Mantiqi _flag := True ::
+	Agar ( _flag )
+	output<- "Ok" ::
+	Wagarna
+	input-> _num ::
+	//Comment 2
+	Wapas 0 ::
+} */
+
+/*
+Adadi my_func(Adadi para_m, Adadi para__m)
+{
+	Adadi _num , _num2 ::
+	Ashriya num_3 ::
+	_num := 10 ::
+	num_3 := -10.5E+12::
+	Harf cou_se::
+	Harf ans_::
+	cou_se := -10 ::
+	Mantiqi _flag ::
+	_flag := 1 ::
+	num_3 := num_3 + 5 * 2 - 1 ::
+
+	Agar (_flag >= 5)
+	{
+		_num3 := 2 ::
+		ans_ := _num ::
+	}
+	Wagarna
+	ans_ := para_m ::
+	for(_num := 1:: _num < 10 :: _num := _num + 1)
+	{
+		_num2 := 5 / 1.5::
+	}
+	_a := 10 ::
+	_b := 5 ::
+	Agar (_a > _b)
+	{
+		_c := _a + _b * 2 ::
+		while (_c >= 20)
+		{
+			_c := _c - 1 ::
+		}
+	}
+	Wagarna
+	{
+		_c := _b + 1 ::
+	}
+	num_4 := 0 ::
+	
+	
+	_x := 10 ::
+	_y := 20 ::
+
+	for (_x := 0 :: _x < 5 :: _x := _x + 1)
+	{
+		Agar (_x == 3)
+		{
+			_flag := 1 ::
+		}
+		Wagarna
+		{
+			_flag := 0 ::
+		}
+	}
+} */
+
+
+Adadi my_func(Adadi para_m, Adadi para__m)
+{
+	_x1 := +50.5e10 ::
+	_x2 := -3 - (50 - +60E750) ::
+	while(_x2 > _x1*_x2+_x3 < _x2)
+	{
+		Agar(_x1 <> _x2 / 0 + +3)
+		{
+			_x45678_x5 := (_x3 * 12 / -23) + _x2 ::
+		}
+		Agar(1 < 0 + 0)
+		{
+			Agar(1 > 0)
+			{
+				Agar(_x7 <> _x4)
+				{
+					_x4 := _x5 ::
+				}
+				Wagarna
+				{
+					_x5 := _x4 ::
+				}
+			}
+		}
+	}
+}
